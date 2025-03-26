@@ -1,0 +1,22 @@
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Vous décidez de prendre le risque. La vérité doit être révélée quoi qu'il en coûte.
+Lionel << Si tu es sûre de toi, je respecte ta décision mais souviens toi que le conseil va tout faire pour t'en empêcher. Je te souhaite bonne chance camarade !>>
+Vous saluez Lionel et le remerciez pour tout ce qu'il a fait pour vous , vous lui dîtes de remercier Samuel et partez de sa planque armée des preuves contenus sur la clé USB et de votre ordinateur
+Direction l'Archipel.
+A votre arrivée, vous remarquez que la place est envahi de gardes.
+Vous avez trois possibilités : 
+    - passer sur la gauche où il faudra neutraliser un gardes (L)
+    - passer au centre (C)
+    - passer à droite (R)
+Arrivé au milieu de la place centrale, à côté d'une estrade, vous êtes inquiet vous vous remettez en question mais vous vous souvenez de tout ce que vous avezz fait pour en arriver la alors vous commencez à préparer discrètement votre présentation.
+Dès que vous êtes prêt, vous montez sur l'estrade en criant "Ecoutez-moi !!" et vous lancer la vidéo.
+silence
+Dès la fin de la vidéo, vous vous exprimez en évoquant quelles ont été les problèmes de l'ancienne civilisation.
+Mais la foule commence à s'agiter et vous voyez le conseil arrivez au loin entourés de plus en plus de gardes.
+La foule << Comment pouvons nous te croire ? >>
+Les hommes du conseil << Ne l'écoutez pas !! Garde occupez-vous de lui !! >>
+Un garde vous attaque :
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Malgré une excellente riposte de votre part, vous perdez la vie après avoir repoussé plusieurs hordes de garde.
+Des siècles plus tard, une nouvelle apocalypse eut lieu, toujours causé par le même problème, l'Homme et son envie d'en vouloir toujours plus.
+Au final, des survivants recrérent une nouvelle civilisation créant ainsi une boucle infini. 

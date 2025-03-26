@@ -1,0 +1,30 @@
+Chapter 1
+After a few days of travel, you arrive at the most important faction of the civilization: The Archipelago.
+This bustling city is filled with people. Despite the crowd, you spot the bar << Error 404. >>
+Sneaking through the crowd, you spot the bartender, Dany, and approach him.
+Dany << Are you here from Remi? Take this drink, it's on the house. >>
+-Take the drink and drink it (Y)
+-Say you're not thirsty (N)
+You explain your objective to him.
+Dany << As a bartender, I've heard a lot about this. Apparently, the relics confiscated by the council could reveal more about the ancient world.>>
+You ask where you can access the relics.
+Dany << It's forbidden to the public, but I heard the sewers might be a way in. >>
+You thank him and head to a small alley far from the crowds, where you find a manhole cover.
+Help: Enter the requested number to complete the mission.
+You gain a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+You sneak into the sewers. Soon, you come across a crossroads. An arrow points right, indicating the council's location.
+You choose:
+-Left (L)
+-Right (R)
+Trusting the sign, you follow it and arrive in front of a ladder. It leads you into a kitchen. You continue to explore the area and finally come face to face with what you were looking for.
+Unfortunately, a grate blocks your way.
+At that moment, a guard surprises you and attacks.
+You gain a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+Unfortunately, the fight made a lot of noise, and it was enough to raise the alarm.
+You begin to run and retrace your steps:
+-The kitchen
+-The sewers
+-The alley
+You find yourself back in the central square, where many guards are searching for you...
+One option remains: flee...
+

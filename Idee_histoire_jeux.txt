@@ -1,0 +1,55 @@
+Nom : The Infinite Cycle of Technology 
+
+Chapitre :
+
+- prologue avec choix de tribus
+- chapitre1 dans l'archipel
+	- rencontre pour avoir infos ds place centrale et bar
+	- connaitre info mais obligé de fuir
+- chapitre2 sur la connaiscance de Jeff Zukerberg (scientifique déchue)
+	- apprend l'existence d'info dans une tour
+	- va ds la tour et combat des sbires
+	- obtient une clé USB
+	- Jeff nous apprend qu'on peut la lire avec un reste d'ordinateur caché dans une mine abandonnée
+- chapitre 3 mine
+	- trouve l'ordi facilement mais il manque un processeur 8008, une ram et des cables
+	- il doit récupérer les différents composants dans différentes salles par enigme, combat et 
+	- lit la clé USB et découvre
+	- fin alternative
+		- décide de ne pas révéler la réalité et comprend le danger -> FIN
+		- décide de vouloir révéler 
+- chapitre 4 retour à l'archipel avec les preuves
+	- apprend l'existence d'une résistance
+	- les rencontrent et montre les preuves
+	- lance une révolution et meure
+FIN
+
+Evènements aléatoires : 
+	- obtient des boost pour les prochains combats : HP ou ATQ ou DEF
+	- Combat avec un mob de niveau défini par le chap
+	- marchand qui propose d'échanger les pt de compétences (DEF contre ATQ)
+	- voleur qui vole un pt de compétence aléatoire
+
+Condition de victoire, deux des conditions suivantes doit avoir lieu
+	- HP > DEF
+	- DEF > ATQ
+	- ATQ > HP
+
+Trois types de factions :
+	- accés DEF -> Scarlets of Armor (faction de mineur)
+	- accés HP -> Childre of the earth (faction de paysan)
+	- accés ATQ -> WILD SPEARS (faction de chasseur)
+
+Defis :
+	- faire les succés
+
+Succès : 
+	- 3 pour chacune des factions bronze
+	- 4 pour arrivée ds chacun des lieux importants bronze
+	- 4 pour chacun des évènements aléatoires argent
+	- 2 pour les 2 fins or
+	- 1 pour le fait de choisir de révéler la vérité argent
+	- 1 pour obtenir la clé USB bronze
+	- 1 pour gagner un combat argent
+	- 1 pour mourir en combat argent
+

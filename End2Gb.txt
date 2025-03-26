@@ -1,0 +1,22 @@
+You have gained a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+You decide to take the risk. The truth must be revealed, no matter the cost.
+Lionel << If you’re sure about this, I respect your decision. But remember, the Council will do everything to stop you. Good luck, comrade! >>
+You bid farewell to Lionel, thanking him for everything he’s done. You ask him to thank Samuel as well before leaving his hideout, armed with the evidence on the USB drive and your computer.
+Your destination: The Archipelago.
+Upon arrival, you notice the plaza is swarming with guards.
+You have three options:
+-Go left, where you’ll need to neutralize a guard. (L)
+-Go straight through the center. (C)
+-Go right. (R)
+Once you reach the center of the main square, near a podium, doubt begins to creep in. But you remind yourself of everything you’ve done to get here. With renewed resolve, you discreetly prepare your presentation.
+When ready, you climb onto the podium and shout: << Listen to me! >> before playing the video.
+Silence.
+As the video ends, you address the crowd, explaining the problems of the previous civilization.
+The crowd starts to stir, and you see the Council approaching, surrounded by more guards.
+The Crowd: << How can we believe you? >>
+The Council Members: << Don’t listen to him! Guards, take him down! >>
+A guard attacks you:
+You have gained a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+Despite an impressive defense, you ultimately lose your life after fending off several waves of guards.
+Centuries later, a new apocalypse occurs—caused by the same issue: humanity’s insatiable desire for more.
+In the end, survivors rebuild a new civilization, creating an endless cycle.

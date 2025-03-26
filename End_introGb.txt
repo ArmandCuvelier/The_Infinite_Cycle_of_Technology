@@ -1,0 +1,6 @@
+After discovering the truth contained in the USB drive, you and Lionel finally understand everything that happened. But now, you must decide the fate of humanity.
+Lionel << Listen, honestly, the people won’t listen to me. I’m old. >>
+Lionel << You, on the other hand, are young, and you were the one who uncovered this information. The choice is entirely yours. >>
+You recall why you embarked on this journey, driven by a desire for truth. Yet at the same time, you remember the guards who hunted you down... Now, you must make a decision:
+-Stay silent, as this opportunity is too risky to act on. (E)
+-Attempt to warn the population. (C)

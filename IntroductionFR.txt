@@ -1,0 +1,28 @@
+Souhaitez-vous commencer le jeu(0UI/NON)
+Dans un monde apocalyptique, l'espèce humaine a survécu et s'est rassemblée par petites factions. La plus grosse d'entre elle, l'Archipel, est la plus influente depuis plus d'un siècle. 
+Son conseil, constitué des aînés de cette jeune civilisation, dirige désormais l'ensemble des factions depuis plusieurs décénnies en instaurant des lois. 
+La plus importante d'entre elle concerne l'interdiction de posséder des artéfacts et livres de la civilisation ancienne.
+Prologue
+Notre héros se réveille par une matinée dans un lit en paille. Il ne se souvient pas de qui il est, pouvez vous l'aider ?
+Quel est son nom ?
+Quel est son age ?
+Quel est son sexe (H/F) ?
+A quelle faction appartient-il ?
+- Scarlets of Armor(S), une faction de mineurs qui est spécialisé dans les points de défense
+- Childre of the Earth(C), une faction de paysans qui est spécialisé dans les points de vie
+- WILD SPEARS(W), une faction de chasseurs qui est spécialisé dans les points d'attaque
+Notre héros entend des voix et se rend compte qu'il n'est pas seul. Il passe la porte d'entrée et rencontre une vieille femme lui souriant.
+<< Te voilà enfin réveiller, vient m'aider à ramasser ce tas de bois >>
+Aide : Rentrer le chifre demandée pour réussir la mission
+La Mamie << Merci pour ton aide >>
+La Mamie << Tu as passer tellement de temp endormies , tu dois mourrir de faim ! >>
+"Prendre une salade" (S)
+"Prendre des pâtes" (P)
+"Prendre un hamburger" (H)
+Vous << Merci pour ce repas >>
+La Mamie << Rémy t'attend pour t'apprendre les bases du combats  >>
+Vous allez voir Rémy au stade
+Rémy << Te voila enfin , je dois t'apprendre les bases du combats >>
+Aide : Chaque combat dépend de tes compétences HP, DEF et ATQ. Deux de tes compétences doivent être supérieur ou égal pour remporter ton combat.
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Rémy << Maintenant que je t'es enseigné le combat , tu dois te rendre à l'Archipel, dans un bar nommé "L'erreur 404". Tu y rencontreras Dany qui pourra t'aider dans ta quête de vérité>>

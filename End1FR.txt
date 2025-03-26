@@ -1,0 +1,6 @@
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Vous décidez de garder le silence car vous et Lionel savent que cela sera impossible de convaincre la popullation de montrer la vrai nature de ce systéme...
+Lionel << C'est une décision difficile mais sûrement la plus sûre , certains secrets doivent rester enfouis. >>
+Vous décidez donc de rester avec Lionel ,pour pouvoir l'aider dans les semaines suivantes dans ses recherches. 
+Avec son aide vous construisez une cachette sécurisée pour préserver les reliques technologiques en ésperant qu'un jour l'humanité serait prête à changer.
+Mais au fond de vous , un doute persiste : avez-vous pris la bonne décision ?

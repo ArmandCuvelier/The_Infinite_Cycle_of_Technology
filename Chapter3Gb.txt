@@ -1,0 +1,40 @@
+Chapter 3:
+You leave Lionel’s place and head toward Samuel’s mine.
+After more than three hours of walking, you luckily stumble upon a mine entrance. You step inside.
+You see light and wonder if someone is there.
+No response.
+You ask again, mentioning Lionel.
+A man steps out of the shadows.
+The man << Rah, Lionel, always talking about me... >>
+It was Samuel.
+Samuel << Explain to me why you’re here? >>
+You explain in detail the reason for your visit.
+Samuel << Alright, alright. Listen, the mine is a real labyrinth, so memorize my instructions carefully, okay? >>
+Samuel << Left, left, right, left, right, right, right, and finally left. One mistake, and you say goodbye. >>
+Hint: Left corresponds to L, and right to R.
+You’ve gained a skill point. Would you like to allocate it to HP, DEF, or ATK? (H/D/A)
+You arrive in an abandoned room, but Samuel is there.
+Samuel << Ah, welcome. This is what you were looking for, am I right? >>
+You receive an Ancient PC.
+Samuel << By the way, tell Lionel that it’s missing a 3008 processor, RAM, and cables! >>
+You thank him and leave the mine, but a dark creature blocks your path and attacks you.
+You’ve gained a skill point. Would you like to allocate it to HP, DEF, or ATK? (H/D/A)
+After defeating it, you notice the creature had a small black box in its teeth.
+You take it to show Lionel.
+Back at his hideout, you show it to him.
+Lionel << Wow, you found RAM, and with the cables I have, we’re only missing the processor to get the computer running. >>
+Lionel << But bad news, we’ll need to visit a man named Dominique to get one. He lives five minutes from here in a cube-shaped stone house. >>
+You hurry to visit Dominique before night falls.
+Arriving at the described house, you knock.
+A man answers, and you explain that you’ve come on behalf of Lionel.
+The man << I’m Dominique. I’m willing to give you the processor if you play a game. >>
+Dominique << In the past, the old civilization used to play a game called ‘rock, paper, scissors.’ The rules are simple: at the same time, each player chooses rock, scissors, or paper. Paper beats rock, rock beats scissors, and scissors beat paper. >>
+Dominique << I propose we play. If you win, you get your processor. If you lose, you die and will serve as part of my research. >>
+Terrified, you decide to accept.
+Help: Paper corresponds to P, rock to R, and scissors to S.
+You’ve gained a skill point. Would you like to allocate it to HP, DEF, or ATK? (H/D/A)
+Dominique << Thank you, this has helped me advance my research. Here’s your processor. >>
+You thank him and rush back to Lionel.
+Upon returning to Lionel’s, you quickly assemble the computer and start playing the USB drive.
+After an hour of watching, you understand the cause of the apocalypse:
+The limits of technology were reached. Humanity, driven by its insatiable desire for more, nearly caused its own extinction.

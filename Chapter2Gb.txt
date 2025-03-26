@@ -1,0 +1,43 @@
+Chapter 2
+You flee from the central square when someone calls out to you.
+The man << Why are you running?>>
+Lionel << My name is Lionel. I'm a solitary scientist, isolated from all these barbarians who refuse to believe in technology...>>
+You explain that you've just fled the central square because the city guards are after you.
+Lionel << I see, but how did you end up being chased? What did you do? >>
+You explain your quest, which is strongly disapproved by the council members.
+Lionel << Listen, your desire to uncover the truth interests me greatly. I’m also looking for answers, but the problem is that the council doesn’t want us to reveal or learn the truth... The reason is unknown to me, but what’s certain is that this hides a heavy truth. I share the same goal as you. I offer to help you. What do you say? >>
+You nod, starting to feel hopeful. You get your first lead!
+Lionel << Let’s go to my hideout. We’ll discuss everything there. It’s getting dark anyway, better head back... >>
+You follow Lionel to his hideout.
+Lionel << Here’s my little home! >>
+You discover Lionel's hideout, which is a small cave hidden by vegetation. You notice the technological equipment the scientist possesses and ask him about its purpose.
+Lionel << Unfortunately, I’m asking myself the same question, and the answer is still unknown. However, I can tell you that not far from here, there’s a tower that probably holds the answers to your questions. That’s where my technological relics come from. But for now, rest up, it’s getting late. >>
+You rest while waiting for the sunrise.
+The sun rises, but before leaving, you grab a small breakfast from Lionel’s supplies.
+-A piece of bread that looks a bit old (B)
+-A slice of ham (H)
+-A glass of alcohol (A)
+You set off.
+Lionel: << Take care, you are our hope!>>
+After an hour of walking, you arrive in front of the abandoned tower and decide to enter.
+But squatters notice your presence and attack.
+You gain a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+After dealing with them using the techniques taught by Rémi, you head up to the second floor.
+You notice a dark room on the right, and you decide to:
+- Go to the top floor (C)
+- Go into the dark room (G)
+You continue up to the top floor, which contains a single lit room filled with plants and vegetation.
+In the center, you see a relic with an ON/OFF button. You turn it on, and an image appears in front of your eyes.
+It says to repeat a sequence of numbers.
+You gain a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+A compartment opens, revealing a small black object.
+You return to Lionel’s hideout.
+Lionel: << So, what did you find?>>
+You give him what you discovered.
+Lionel << No way, I haven’t seen a USB stick in ages!>>
+You: << A... what? >>
+Lionel << A USB stick, it’s a storage device. I’m sure it contains some information! >>
+You << In this tiny thing? >>
+Lionel << Normally, it goes into a computer. Don’t worry, you’ll understand. Listen, I had a colleague in the mines, Samuel. He wanted to go into an abandoned mine, there must be a computer there...>>
+You gain a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+

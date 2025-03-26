@@ -1,0 +1,42 @@
+Chapitre 2 :
+Vous fuyez la place centrale et quelqu'un vous interpelle.
+L'homme << Pourquoi es tu en train de courrir ??? >>
+Lionel << Je m'appelle Lionel, je suis un scientifique solitaire , isolé de tout ces barbares qui ne veulent pas croire à la technologie.. >>
+Vous lui expliquez que vous venez de fuir la place centrale puisque les gardiens de la cité vous recherchent.
+Lionel << Je vois mais comment ce fait-il que vous vous êtes fais poursuivre , qu'avez vous faits ?>>
+Vous lui expliquez votre quête qui déplâit fortement aux membre du conseil.
+Lionel << Ecoute , ton envie de savoir la vérité m'intérésse énormément. Je cherche également des réponses mais le soucis est que le conseil ne veut pas que l'on divulgent ou apprennent la vérité... La raison je l'ignore mais ce qui est sûre c'est que j'ai cela cache une lourde vérité. Je partage le même objectif que toi, je te propose de te prêter main forte, quand dis-tu ? >>
+Vous ochez la tête et vous commencez à prendre espoir, vous obtenez votre première piste !
+Lionel << Allons dans ma planque nous allons discuter de tout ça , de toute manière il commence a faire sombre, il vaut mieux rentrer...>>
+Vous suivez Lionel jusqu'a sa planque
+Lionel << Voila mon petit chez moi !>>
+Vous découvrez la cachette de Lionel qui se résume par une petite grotte dissimulée par de la végétation. Vous remarquez l'attirail technologique que posséde le scientifique et vous lui demandez son utilité.
+Lionel << Malheuresement, je me pose la même question et la réponse m'est toujours inconnue. Je peux toute de même te dire que non loin d'ici, il y a une tour qui contient probablement des réponses a tes questions. C'est de là que proviennent mes reliques technologiques. Mais en attendant repose-toi, il se fait tard.>>
+Vous vous reposez en attendant le lever du soleil.
+Le soleil se léve mais avant de partir vous prenez un petit déjeuner dans la réserve de Lionel.
+- un morceau de pain qui a l'air d'être vieux (B)
+- une tranche de jambon (H)
+- un verre d'alcool (A)
+Vous prenez la route.
+Lionel << Attention à toi , tu es notre espoir ! >>
+Après une heure de marche, vous arrivez devant cette tour abandonnée et vous décidez d'entrer.
+Mais des squatteurs remarquent votre présence et vous attaquent.
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Après s'être débarrassé d'eux grâce aux techniques enseigné par Rémi, vous montez au deuxiéme étage.
+Vous remarquez une pièce sombre sur la droite, vous décidez de :
+- Montez au dérniére étage (C)
+- Aller dans cette pièce (G)
+Vous continuez votre route jusqu'au dernier étage qui comprend une unique pièce éclairé rempli de plante et de végétation.
+Au milieu se trouve, une relique comprenant un bouton ON/OFF, vous l'allumez et une image s'affiche devant vos yeux.
+Il y est écrit de répéter une suite de chiffre.
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Un compartiment s'ouvre. Ce dernier contient un petit objet noir.
+Vous retournez a sa planque de Lionel.
+Lionel << Alors ?? >>
+Vous lui donnez ce que vous avez trouvé
+Lionel << Non d'un petit bonnhomme , je n'avait plus vu une clé usb depuis une étérnité !! >>
+Vous << Une..quoi...?>>
+Lionel << Une clé Usb , c'est un appareil de stockage je suis sûre qu'elle contiendra des informations ! >>
+Vous << Dans ce petit machin ?? >>
+Lionel << Normalement, ça se met sur un ordinateur , ne t'inquiéte pas tu comprendras. Ecoute dans une mine j'avais un collégue Samuel qui a voulu aller dans une mine abandonnée , il y doit avoir un ordinateur.. >>
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)

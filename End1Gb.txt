@@ -1,0 +1,5 @@
+You have gained a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+You decide to remain silent, knowing that convincing the population to uncover the true nature of this system would be impossible for you and Lionel.
+Lionel << It’s a tough decision, but probably the safest one. Some secrets are better left buried. >>
+You choose to stay with Lionel, helping him in the weeks that follow with his research. Together, you build a secure hideout to preserve the technological relics, hoping that one day humanity will be ready to change.
+But deep down, a lingering doubt remains: Did you make the right decision?

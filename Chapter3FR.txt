@@ -1,0 +1,40 @@
+Chapitre 3 :
+Vous repartez de chez Lionel en direction de la mine de Samuel.
+Après plus d'une 3 heures de marche, vous tombez par chance sur une entrée de mine. Vous y entrez.
+Vous aprecevez de la lumière et vous demander si il ya quelqu'un.
+Aucune réponse
+Vous redemandez en parlant de Lionel
+Un homme sort de l'ombre
+L'homme << Rah , Lionel toujours en train de causer de moi ...  >>
+C'était Samuel.
+Samuel << Explique moi la raison de ta venu ? >>
+Vous lui expliquez dans les moindres détails pourquoi êtes vous ici
+Samuel << Bien , bien écoute la mine est un vrai labyrinthe alors mémorise bien mes instructions d'accord ? >>
+Samuel << gauche, gauche, droite, gauche, droite, droite, droite et pour finir gauche. Une erreur et tu peux dire adieu à tes réponses.>>
+Aide : Gauche correspond à G et droite à D
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Vous arrivez dans uen piéce abandonner mais Samuel s'y trouve
+Samuel << Enchantez , voici ce que tu cherchais je me trompes ? >>
+Vous recevez un Ancien Pc
+Samuel << Attention tu diras a Lionel qu'il manque un processeur 3008  , une ram et des cables ! >>
+Vous le remerciez et vous sortez de la mine mais une créature sombre vous bloque le passage et vous attaque.
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Après l'avoir vaincu, vous remarquez que la créature avait un petit boîtier noir entre les dents.
+Vous le prenez pour le montrer à Lionel.
+De retour à sa planque, vous lui montrez.
+Lionel << Wow, tu as trouvé un ram et avec les cables que je posssède, il ne nous manque plus que le processeur pour faire marcher l'ordinateur. >>
+Lionel << Par contre, mauvaise nouvelle, il va falloir aller voir un homme du nom de Domiique pour en récupérer un. Il habite à 5 min d'ici dans une maison cubique en pierre.
+Vous vous attez d'aller voir Dominique avant que la nuit ne tombe.
+Arrivé devant la maison décrite, vous sonnez.
+Un homme sonne et vous lui expliquez que vous venez de la part de Lionel
+L'homme << Je suis Dominique, je suis prêt à vous donner votre processeur si vous jouez à un jeu. >>
+Dominique << Auparavent, l'ancienne civilisation jouais à un jeu nommé "pierre, papier, ciseau. Le but est simple, au même moment on sort soit la pierre, soit le ciseau ou soit le papier. Le papier l'emporte sur la pierre qui l'emporte sur le ciseau qui lui l'emporte sur le papier. >>
+Dominique << Je te propose d'y jouer, si tu gagnes tu récupères ton processeur, s'y tu perds tu meurs et tu me serviras pour mes recherches. >>
+Effrayé, vous décidez d'accepter.
+Aide : le papier correspond à P, la pierre à R et le ciseau à S
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Dominique << Je te remercie, cela m'a permis d'avancer dans mes recherches. Tiens ton processeur.
+Vous le remerciez et vous vous dépêchez de retourner voir Lionel.
+A votre retour de chez Lionel, vous vous empressez de faire fonctionner l'ordinateur et vous lancer la lecture de la clé USB.
+Une heure de visionnage plus tard, vous comprenez quelle a été la cause de l'apocalypse :
+Les limites de la technologie ont été touchés. Les humains, par leur désir d'en vouloir toujours plus, ont failli causé leur propre éradication.

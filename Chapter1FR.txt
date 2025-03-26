@@ -1,0 +1,29 @@
+Chapitre 1
+Après quelques jours de route, vous arrivez à la faction la plus importante de la civilisation : L'Archipel.
+Cette cité animé est rempli de personne. Tant bien que mal, vous apercevez le bar "L'erreur 404".
+En vous faufiilant vous repérez le barman Dany et vous lui parlez.
+Dany << Vous venez de la part de Remi ? Prenez ce verre, c'est offert par la maison >>
+- prendre le verre et le boire (Y)
+- dire que vous n'avez pas soif (N)
+Vous lui expliquez votre objectif.
+Dany << En tant que barman, j'ai entendu plein de choses à ce sujet. Il paraît que les reliques confisqués par le conseil permettrait d'en savoir plus sur l'ancien monde.
+Vous demandez où vous pouvez avoir accès aux reliques.
+Dany << C'est interdit au public mais on m'a dit que les égouts serait un moyen d'y accéder. >>
+Vous le remercier et vous vous rendez dans une petite ruelle loin des regards avec une plaque d'égouts
+Aide : Rentrer le chiffre demandée pour réussir la mission
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Vous vous faufilez discrètement dans les égouts. Vous tombez par la suite sur un carrefour. Une flèche vous indique que le conseil est à droite.
+Vous choississez :
+- gauche (L)
+- right (R)
+Vous avez fait confiance à l'indication et vous arrivez devant une échelle. Elle vous amène dans une cuisine. Vous continuez d'explorer les lieux et vous tombez nez à nez en face de ce dont vous cherchiez.
+Malheureusement, une grille vous bloque le passage. 
+Et à ce moment, un garde vous surprend et vous attaque.
+Vous avez gagnez un point de compétence, voulez-vous l'attribuer à HP, DEF ou ATQ ? (H/D/A)
+Malheureusement, votre combat a fait beaucoup de bruit et cela a suffit pour donner l'alerte.
+Vous commencez à courrir et vous faites le chemin inverse : 
+- la cuisine
+- les égouts
+- la ruelle
+Et vous voilà arrivez sur la place centrale où de nombreux gardes vous cherche...
+Une seule solution persiste : fuir...

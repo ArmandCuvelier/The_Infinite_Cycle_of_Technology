@@ -1,0 +1,28 @@
+Would you like to start the game? (YES/NO)
+In an apocalyptic world, humanity has survived and gathered in small factions. The largest of them, the Archipelago, has been the most influential for over a century.
+Its council, made up of the elders of this young civilization, has been ruling all the factions for several decades by enforcing laws.
+The most important of these laws is the prohibition of possessing artifacts and books from the ancient civilization.
+Prologue
+Our hero wakes up one morning in a straw bed. He doesn't remember who he is. Can you help him?
+What is his name?
+How old is he?
+What is his gender (M/F)?
+Which faction does he belong to?
+Scarlets of Armor (S), a faction of miners specializing in defense points.
+Children of the Earth (C), a faction of farmers specializing in health points.
+WILD SPEARS (W), a faction of hunters specializing in attack points.
+Our hero hears voices and realizes he's not alone. He walks through the front door and meets an old woman smiling at him.
+<< You're finally awake, come help me gather this pile of wood. >>
+Help: Enter the requested number to complete the mission.
+The Grandma << Thank you for your help >>
+The Grandma << You've been asleep for so long, you must be starving! >>
+- Take a salad" (S)
+- Take pasta" (P)
+- Take a hamburger" (H)
+You << Thank you for this meal. >>
+The Grandma << Rémy is waiting for you to teach you the basics of combat. >>
+"Go see Rémy at the stadium."
+Rémy << You're finally here. I need to teach you the basics of combat. >>
+Help: Each battle depends on your HP, DEF, and ATK skills. Two of your skills must be equal to or greater than the opponent's to win the battle.
+You have gained a skill point. Would you like to assign it to HP, DEF, or ATK? (H/D/A)
+Rémy << Now that I've taught you how to fight, you need to go to the Archipelago, to a bar called 'Error 404.' There, you'll meet Dany who can help you in your quest for the truth. >>
