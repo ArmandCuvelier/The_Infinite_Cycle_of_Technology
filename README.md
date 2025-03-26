@@ -7,7 +7,7 @@ CUVELIER Armand
 
 **Théme :**
 
-Jeu vidéo textuelle
+Jeu vidéo textuel
 
 **Titre :** 
 
@@ -33,18 +33,15 @@ aventure et révèle des secrets enfouis.
 **Installation :** 
 
 1. Veuillez installer Visual Studio Code : https://code.visualstudio.com/download
-2. Prenez le dossier zip du jeu "The_Infinite_Cycle_of_Technology.zip"
-3. dézippez ce dossier
-4. Lancez Visual Studio Code
-5. Ouvrez votre dossier dézippez
-6. Allez sur "The_Infinite_Cycle_of_Technology.c"
-7. Exécutez le programme 
-8. Vous êtes prêt a jouer
+2. Télechargez les documents
+3. Placez les dans le même dossier
+4. Lancez le fichier "The_Infinite_Cycle_of_Technology
+5. Vous êtes prêt a jouer
 
 **Comment jouer :**
 
 1. Agrandissez la console pour avoir une meilleur éxpérience
-2. suivez les instructions affichés (ne tapez seulement les instructions demander ex : (H/F))
+2. Suivez les instructions affichés (ne tapez seulement les instructions demander ex : (H/F))
 3. Prenez de bonnes décisions
 4. Améliorez vos compétences 
 5. Survivez
